@@ -1,0 +1,14 @@
+---
+title: "Untitled"
+format: html
+---
+
+# Un encabezado
+
+Este es un documento de Quarto.
+You can add a new code cell by running the command Quarto: Insert Code Cell, 
+using the keyboard shortcut Ctrl+Shift+I , or using the Insert Code Cell button in the editor toolbar.
+
+```{python}
+import pandas as pd 
+```
